@@ -2,14 +2,20 @@ body{
 
   display: flex;
   background-color: #ffffff;
+
 }
 
-#paraque
-{
+#paraque{
 
-	text-align: center;
+	
 }
 
 h1{
 	color:black;
+	text-align: center;
+	background: green;
+}
+h2 {
+	text-align: center
+
 }

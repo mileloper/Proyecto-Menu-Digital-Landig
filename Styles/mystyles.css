@@ -1,0 +1,16 @@
+h3{
+
+	font-family: 'Lobster', cursive;
+}
+
+#imagen1{
+	display: flex;
+	
+	justify-content:flex end;
+}
+p{
+
+	color: green;
+	background: yellow;
+}
+

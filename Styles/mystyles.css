@@ -1,16 +1,23 @@
-h3{
+#subtitulo_como{
 
 	font-family: 'Lobster', cursive;
+	font-size: 30px;
+	color: #ff00ff;
 }
 
-#imagen1{
+#imagenes_contenido{
 	display: flex;
-	
-	justify-content:flex end;
-}
-p{
+		
+	justify-content:center;
+	justify-content:space-around;
 
-	color: green;
-	background: yellow;
+}
+#parrafo_como{
+
+	font-family: 'Crimson Text', serif;
+
+    font-size: 30px;
+	text-align: justify;
 }
 
+}

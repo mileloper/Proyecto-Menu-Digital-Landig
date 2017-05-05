@@ -1,0 +1,22 @@
+#subtitulo_como{
+
+	font-family: 'Lobster', cursive;
+	font-size: 30px;
+	color: #ff00ff;
+}
+
+#imagenes_contenido{
+	display: flex;
+		
+	justify-content:center;
+	justify-content:space-around;
+
+}
+#parrafo_como{
+
+	font-family: 'Crimson Text', serif;
+
+    font-size: 30px;
+	text-align: justify;
+}
+
